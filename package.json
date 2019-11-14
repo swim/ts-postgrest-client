@@ -1,6 +1,6 @@
 {
-  "name": "postgrest-stack",
-  "version": "1.0.0",
+  "name": "ts-postgrest-client",
+  "version": "0.0.1",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
