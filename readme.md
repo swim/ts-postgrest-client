@@ -1,4 +1,8 @@
-Isomorphic Postgrest Client in Typescript which provides a fluent, expressive API.
+Isomorphic Postgrest Client in Typescript which provides a fluent API.
+
+```shell
+npm i ts-postgrest-client
+```
 
 ### Table of contents
 1. [Usage](#usage)
