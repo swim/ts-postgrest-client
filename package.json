@@ -1,7 +1,8 @@
 {
   "name": "ts-postgrest-client",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "Provides an isomorphic Postgrest client written in Typescript.",
+  "repository": "swim/ts-postgrest-client",
   "main": "lib/index.js",
   "scripts": {
     "test": "jest",
@@ -11,8 +12,8 @@
     "build:types": "tsc --emitDeclarationOnly",
     "build:js": "babel src --out-dir lib --extensions \".ts,.tsx\""
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Nicholas James Cole",
+  "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.7.0",
     "@babel/core": "^7.7.2",
